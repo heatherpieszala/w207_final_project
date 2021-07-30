@@ -11,6 +11,6 @@ Three primary sentiment analyzers were used to assess the data:
 
 It was determined that VADAR and Text Blob were most similar, with VADAR generalizing best to Twitter data.  Flair was ruled unsufficient due to the extreme level of prcessing time required, and also because the data was not trained in a manner that generalizes well to tweets. 
 
-We then derived fetures from Twitter, general Stock Market, and S&P 500 datasets, leveraging sentiment classification, to be used in machine learning models.
+We then derived additional fetures from Twitter, general Stock Market, and S&P 500 datasets, leveraging sentiment classification, to be used in machine learning models.
 
 The primary models selected were Logistic Regression and Decision Trees.  The models are applied to a batch of data for combined companies 'AAPL', 'AMZN', 'TSLA', 'MSFT', 'GOOG', 'GOOGL', as well as to each individual company.
