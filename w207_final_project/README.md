@@ -16,6 +16,8 @@ We then derived additional fetures from Twitter, general Stock Market, and S&P 5
 
 The primary models selected were Logistic Regression and Decision Trees.  The models are applied to a batch of data for combined companies 'AAPL', 'AMZN', 'TSLA', 'MSFT', 'GOOG', 'GOOGL', as well as to each individual company.
 
+The main modeling notebook can be found in the 'models' folder.  Dataset construction and EDA notebooks can be found in the 'notebooks' folder. Other notebooks, used for proect design, can be found in 'references.'
+
 Project Organization
 ------------
 
