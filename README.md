@@ -9,7 +9,7 @@ Three primary sentiment analyzers were used to assess the data:
 2) Flair
 3) Text Blob
 
-It was determined that VADAR and Text Blob were most similar, with VADER generalizing best to Twitter data.  Flair was ruled unsufficient due to the extreme level of prcessing time required, and also because the data was not trained in a manner that generalizes well to tweets. 
+It was determined that VADER and Text Blob were most similar, with VADER generalizing best to Twitter data.  Flair was ruled unsufficient due to the extreme level of prcessing time required, and also because the data was not trained in a manner that generalizes well to tweets. 
 
 We then derived additional fetures from Twitter, general Stock Market, and S&P 500 datasets, leveraging sentiment classification, to be used in machine learning models.
 
