@@ -1,4 +1,4 @@
-w207_final_project
+w207_project_tweetstockprice
 ==============================
 
 ## Predicting Stock Market Impact Using Sentiment Analysis
